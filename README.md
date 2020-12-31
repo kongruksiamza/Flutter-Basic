@@ -1,7 +1,7 @@
 # โค้ดประกอบเนื้อหา Flutter เบื้องต้น
 
 By KongRuksiam Official
-- [Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
+- [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
