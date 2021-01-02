@@ -30,5 +30,5 @@ By KongRuksiam Official
 - [นำภาพเข้ามาทำงาน (External)](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=19)
 - [Column Widget](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=20)
 - [Stateful Widget](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=21)
-- [ปุ่มและไอคอน)](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=22)
+- [ปุ่มและไอคอน](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=22)
 - [Event และ SetState](https://www.youtube.com/watch?v=nRInT-TlUHw&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=22)
