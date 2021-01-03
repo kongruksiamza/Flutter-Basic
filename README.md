@@ -43,7 +43,7 @@ By KongRuksiam Official
 
 เริ่มต้นทำแอพเล็กๆ เช่น แอพแสดงเมนูอาหาร
 และเพิ่มความซับซ้อนโดยสร้างแอพแสดงอัตราการแลกเปลี่ยนเงินผ่านการใช้งาน API 
-โดยใช้งานร่วมกับ Http Package
+โดยใช้งานร่วมกับ http package [Exchange Rate API](https://exchangeratesapi.io/)
 
 - [แอพเมนูอาหาร](https://www.youtube.com/watch?v=zB_muWbBF9Y&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=31)
 - [นำภาพเข้ามาทำงาน (Internal)](https://www.youtube.com/watch?v=hmcpVn4DQOc&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=32)
