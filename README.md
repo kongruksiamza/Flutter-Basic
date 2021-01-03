@@ -42,7 +42,7 @@ By KongRuksiam Official
 - [ListView Builder](https://www.youtube.com/watch?v=d4835QY6F7s&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=30)
 
 เริ่มต้นทำแอพเล็กๆ เช่น แอพแสดงเมนูอาหาร
-และเพิ่มความซับซ้อนโดยสร้างแอพแสดงอัตราการแลกเปลี่ยนเงินผ่านการใช้งาน API
+และเพิ่มความซับซ้อนโดยสร้างแอพแสดงอัตราการแลกเปลี่ยนเงินผ่านการใช้งาน API โดยใช้ http package
 
 - [แอพเมนูอาหาร](https://www.youtube.com/watch?v=zB_muWbBF9Y&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=31)
 - [นำภาพเข้ามาทำงาน (Internal)](https://www.youtube.com/watch?v=hmcpVn4DQOc&list=PLltVQYLz1BMAnnTkCNozbG9_Tvv0Kf2jR&index=32)
