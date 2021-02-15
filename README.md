@@ -5,6 +5,7 @@ By KongRuksiam Official
 - [ปูพื้นฐาน Dart เบื้องต้น](https://www.youtube.com/watch?v=UYGhkvRttwI&list=PLltVQYLz1BMBAdwngocm2IIa_aC9agfcQ)
 - [เอกสารประกอบการสอน Flutter เบื้องต้น (pdf)](http://bit.ly/3hH7Dsz)
 - [Flutter & ฐานข้อมูล (NOSQL)](https://github.com/kongruksiamza/Flutter-Database)
+- [Flutter & Barcode และ QRCode](https://github.com/kongruksiamza/Flutter-Scanner)
 - [Flutter & Firebase][รออัพเดต]
 ## เรียนผ่านวิดีโอสอนจำนวน 55 หัวข้อ
 
