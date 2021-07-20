@@ -6,7 +6,7 @@ By KongRuksiam Official
 - [เอกสารประกอบการสอน Flutter เบื้องต้น (pdf)](http://bit.ly/3hH7Dsz)
 - [Flutter & ฐานข้อมูล (NOSQL)](https://github.com/kongruksiamza/Flutter-Database)
 - [Flutter & Barcode และ QRCode](https://github.com/kongruksiamza/Flutter-Scanner)
-- [Flutter & Firebase][รออัพเดต]
+- [Flutter & Firebase][https://www.youtube.com/watch?v=jDkKXJQ5xjE&list=PLltVQYLz1BMCjkMGwzQLPLKSTNolxWTBq]
 ## เรียนผ่านวิดีโอสอนจำนวน 55 หัวข้อ
 
 ผู้เรียนต้องมีพื้นฐานภาษา Dart มาก่อน
