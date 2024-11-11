@@ -1,3 +1,7 @@
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การพัฒนาแอพบน Android & iOS (Mobile Application Development) [อ่านบทความ](https://github.com/kongruksiamza/mobile-guideline)
+- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
+
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
